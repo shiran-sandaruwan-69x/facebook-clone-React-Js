@@ -1,9 +1,10 @@
 import React from 'react';
 import './postpane.css'
+import AddPost from "../addPost/AddPost";
 function PostPane(props) {
     return (
         <div className="postPaneBox">
-            <h1>post pane</h1>
+            <AddPost/>
         </div>
     );
 }

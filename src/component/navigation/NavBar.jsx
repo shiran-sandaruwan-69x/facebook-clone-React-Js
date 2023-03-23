@@ -18,7 +18,7 @@ function NavBar(props) {
             </div>
             <div className="navBarRight">
                 <div className="navBarLinks">
-                    <span className="navBarLink">home page</span>
+                    <span className="navBarLink">homepage</span>
                     <span className="navBarLink">profile</span>
                 </div>
                 <div className="navBarIcons">
