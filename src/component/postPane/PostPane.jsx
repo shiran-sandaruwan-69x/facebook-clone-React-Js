@@ -11,6 +11,7 @@ function PostPane(props) {
             <Post/>
             <Post/>
             <Post/>
+            <Post/>
         </div>
     );
 }
