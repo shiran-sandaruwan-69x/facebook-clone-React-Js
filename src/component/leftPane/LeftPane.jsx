@@ -64,27 +64,27 @@ function LeftPane(props) {
                    <div className="pageList">
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                        <li className="pageListItem">
                            <img src="/images/5.jpg" alt="page img" className="pagePic"/>
-                           <span className="pageName">code pen</span>
+                           <span className="pageName">gaming girl</span>
                        </li>
                    </div>
 
