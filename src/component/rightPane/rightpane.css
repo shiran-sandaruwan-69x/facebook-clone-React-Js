@@ -1,4 +1,38 @@
 .rightPaneBox{
-    background-color: #ffbd00;
+    background-color: #ffffff;
     flex: 3;
+}
+.rightPaneContainer{
+    padding: 20px 20px 0 0;
+    margin-left: 20px;
+}
+.adContainer{
+
+}
+
+.sponsoredImage{
+    width: 98%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.hrRightPane{
+    margin-top: 10px;
+}
+.sponsored{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.birthDayContainer{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.birthDayImg{
+    width: 32px;
+    height: 32px;
+    border-radius: 10px;
+}
+.birthDayText{
+    margin-left: 10px;
 }
