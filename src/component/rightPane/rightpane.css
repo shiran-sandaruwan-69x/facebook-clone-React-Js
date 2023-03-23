@@ -1,6 +1,11 @@
 .rightPaneBox{
     background-color: #ffffff;
     flex: 3;
+    font-family: sans-serif;
+    height: calc(100vh - 50px);
+    position: sticky;
+    overflow-y: scroll;
+    top: 50px;
 }
 .rightPaneContainer{
     padding: 20px 20px 0 0;
@@ -14,6 +19,8 @@
     width: 98%;
     margin-top: 10px;
     border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 47px 5px rgba(0,0,0,0.17);
+    box-shadow: 5px 5px 47px 5px rgba(0,0,0,0.17);
 }
 .hrRightPane{
     margin-top: 10px;
@@ -35,4 +42,42 @@
 }
 .birthDayText{
     margin-left: 10px;
+}
+.onlineFriends{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    -webkit-box-shadow: 5px 5px 47px 5px rgba(0,0,0,0.17);
+    box-shadow: 5px 5px 47px 5px rgba(0,0,0,0.17);
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.onlineFriendImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.onlineFriendsImageContainer{
+    display: flex;
+    position: relative;
+}
+.onlineStatus{
+    width: 12px;
+    height: 12px;
+    background-color: lime;
+    border: 2px solid white;
+    border-radius: 50%;
+    position: absolute;
+    top: 26px;
+    right: 0;
+}
+.onlineFriendName{
+    margin-left: 20px;
+}
+.friendListHr{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

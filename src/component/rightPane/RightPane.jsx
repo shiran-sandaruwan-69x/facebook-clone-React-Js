@@ -20,11 +20,112 @@ function RightPane(props) {
                        <b>shiran sanadaruwan</b> and <b>2 others</b> having birthday today ..!
                    </span>
                </div>
+               <hr className="friendListHr"/>
                <div className="friendList">
                    <li className="onlineFriends">
                        <div className="onlineFriendsImageContainer">
                            <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
                        </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
+                   </li>
+                   <li className="onlineFriends">
+                       <div className="onlineFriendsImageContainer">
+                           <img src="/images/3.jpg" alt="" className="onlineFriendImg"/>
+                           <span className="onlineStatus"></span>
+                       </div>
+                       <span className="onlineFriendName">tashi perera</span>
                    </li>
                </div>
            </div>

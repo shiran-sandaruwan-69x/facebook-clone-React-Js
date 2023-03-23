@@ -63,27 +63,27 @@ function LeftPane(props) {
                     </div>
                    <div className="pageList">
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                        <li className="pageListItem">
-                           <img src="/images/1.jpg" alt="page img" className="pagePic"/>
+                           <img src="/images/5.jpg" alt="page img" className="pagePic"/>
                            <span className="pageName">code pen</span>
                        </li>
                    </div>

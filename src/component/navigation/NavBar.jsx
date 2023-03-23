@@ -37,7 +37,7 @@ function NavBar(props) {
 
                 </div>
                 <div className="pic">
-                    <img src="/images/1.jpg" alt="profile img" className="profilePicImg"/>
+                    <img src="/images/6.jpg" alt="profile img" className="profilePicImg"/>
                 </div>
             </div>
         </div>

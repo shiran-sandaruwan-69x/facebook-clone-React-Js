@@ -10,7 +10,7 @@ function AddPost(props) {
         <div className="addPost">
             <div className="addPostContainer">
                 <div className="addPostTop">
-                    <img src="/images/1.jpg" alt="profile pic" className="addPostPic"/>
+                    <img src="/images/6.jpg" alt="profile pic" className="addPostPic"/>
                     <input type="text" placeholder='what is your mind...?' className="addPostInput"/>
                 </div>
                 <hr className="postHr"/>
